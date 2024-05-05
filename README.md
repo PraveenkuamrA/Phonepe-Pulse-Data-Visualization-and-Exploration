@@ -31,6 +31,7 @@ https://github.com/PraveenkuamrA/Phonepe-Pulse-Data-Visualization-and-Exploratio
 
 Creating option menu page
 https://github.com/PraveenkuamrA/Phonepe-Pulse-Data-Visualization-and-Exploration-/blob/4495a6b6ac13e6f024e21b618bd8195926dcc7b4/phonepe.py#L17-L26
+
 ![Screenshot 2024-05-05 110653](https://github.com/PraveenkuamrA/Phonepe-Pulse-Data-Visualization-and-Exploration-/assets/161042655/36bc4fa5-ee22-44e6-8578-02bc5e8520ca)
 
 About page: 
@@ -38,6 +39,7 @@ https://github.com/PraveenkuamrA/Phonepe-Pulse-Data-Visualization-and-Exploratio
 
 Home page:
 https://github.com/PraveenkuamrA/Phonepe-Pulse-Data-Visualization-and-Exploration-/blob/4495a6b6ac13e6f024e21b618bd8195926dcc7b4/phonepe.py#L52-L88
+
 ![Screenshot 2024-05-05 111105](https://github.com/PraveenkuamrA/Phonepe-Pulse-Data-Visualization-and-Exploration-/assets/161042655/f2324516-f153-477a-a61c-3268386a782c)
 
 Top chart page: 
@@ -54,6 +56,7 @@ https://github.com/PraveenkuamrA/Phonepe-Pulse-Data-Visualization-and-Exploratio
 Explore data page:
 #### option creating 
 https://github.com/PraveenkuamrA/Phonepe-Pulse-Data-Visualization-and-Exploration-/blob/4495a6b6ac13e6f024e21b618bd8195926dcc7b4/phonepe.py#L533-L550
+
 ![Screenshot 2024-05-05 111945](https://github.com/PraveenkuamrA/Phonepe-Pulse-Data-Visualization-and-Exploration-/assets/161042655/a2b71b86-ee3b-4849-85d2-af804eaf6e3f)
 #### Option Transaction : 
 https://github.com/PraveenkuamrA/Phonepe-Pulse-Data-Visualization-and-Exploration-/blob/4495a6b6ac13e6f024e21b618bd8195926dcc7b4/phonepe.py#L552-L763
