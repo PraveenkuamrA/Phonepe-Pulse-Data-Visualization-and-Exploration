@@ -13,4 +13,5 @@
 #### 4. Dashboard creation: Use the Streamlit and Plotly libraries in Python to create an interactive and visually appealing dashboard. Plotly's built-in geo map functions can be used to display the data on a map and Streamlit can be used to create a user-friendly interface with multiple dropdown options for users to select different facts and figures to display.
 #### 5. Data retrieval: Use the "mysql-connector-python" library to connect to the MySQL database and fetch the data into a Pandas dataframe. Use the data in the dataframe to update the dashboard dynamically.
 #### 6. Deployment: Ensure the solution is secure, efficient, and user-friendly. Test the solution thoroughly and deploy the dashboard publicly, making it accessible to users.
-![Alt text](C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2024-04-30 115426.png)
+
+![Screenshot 2024-04-30 115426](https://github.com/PraveenkuamrA/Phonepe-Pulse-Data-Visualization-and-Exploration-/assets/161042655/180b7b83-22af-4fb4-9fb3-73375ddede76)
